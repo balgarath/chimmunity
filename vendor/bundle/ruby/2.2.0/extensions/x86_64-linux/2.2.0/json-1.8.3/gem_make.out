@@ -1,0 +1,9 @@
+/home/ubuntu/.rvm/rubies/ruby-2.2.1/bin/ruby -r ./siteconf20151231-13210-1clwdyh.rb extconf.rb
+creating Makefile
+
+make "DESTDIR=" clean
+
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+make "DESTDIR=" install
