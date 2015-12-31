@@ -7,6 +7,7 @@ gem 'rails', '4.0.13'
 gem 'mysql2', '~> 0.3.18'
 
 gem 'aws-s3'
+gem 'omniauth-facebook'
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.2'
